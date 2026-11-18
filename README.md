@@ -1,4 +1,4 @@
-#Pool Physics Engine
+# Pool Physics Engine
 
 <img src="https://raw.githubusercontent.com/Jan-Spalding/Pool-Physics/refs/heads/main/pool%20thumbnail.png">
 
